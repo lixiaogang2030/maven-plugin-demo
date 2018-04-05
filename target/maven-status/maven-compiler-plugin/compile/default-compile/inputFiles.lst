@@ -1,2 +1,2 @@
-/Users/xiaogangli/mavenPluginDemo/src/main/java/com/shuidihuzhu/demo/ForkMojo.java
-/Users/xiaogangli/mavenPluginDemo/src/main/java/com/shuidihuzhu/demo/MyMojo.java
+/Users/xiaogangli/mavenPluginDemo/src/main/java/top/lixiaogang/maven/plugin/MyMojo.java
+/Users/xiaogangli/mavenPluginDemo/src/main/java/top/lixiaogang/maven/plugin/ForkMojo.java
